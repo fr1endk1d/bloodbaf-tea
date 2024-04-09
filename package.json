@@ -1,0 +1,20 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A package that generates QR codes in JavaScript",
+  "main": "qr-code-generator.js",
+  "scripts": {
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.3"
+  }
+}
+
